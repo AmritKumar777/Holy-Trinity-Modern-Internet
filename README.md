@@ -19,12 +19,12 @@ This repository is for personal use, or for anyone who is curious and just getti
 ## 🏅 My First Repository: The 19th April Milestone
 I am proud to document that this is my first-ever repository. Created on 19th April 2026, this project marks the official start of my journey as a builder and SDE.
 Making these first commits and seeing the changes go live has been an amazing experience. I’ve moved from just watching videos to actually documenting the Holy Trinity of the Modern Internet. This is my day one. Here’s to many more.
----
+
 
 ## 🧘 Personal Reflection
-"This project is more than just a technical deep dive; it is a tribute to my second guardian—the Internet. Understanding these papers was a journey of connecting with my digital heritage."
+This project is more than just a technical deep dive; it is a tribute to my second guardian—the Internet. Understanding these papers was a journey of connecting with digital world advancement.
 
-Read my personal journey and the full story behind this research on my blog:
-👉 **[About WWW Exploration](https://www.blogger.com/blog/post/edit/6414641918688218205/4670444568163690111)**
+Read my personal journey and the full story behind this research on my blog:👉 **[About WWW Exploration](https://www.blogger.com/blog/post/edit/6414641918688218205/4670444568163690111)**
 👉 **[About PageRank Chaos](https://www.blogger.com/blog/post/edit/6414641918688218205/8430061158855630496)**
 👉 **[LLMs & Attention is all u need](https://www.blogger.com/blog/post/edit/6414641918688218205/8691836765995585563)**
+
