@@ -24,7 +24,5 @@ Making these first commits and seeing the changes go live has been an amazing ex
 ## 🧘 Personal Reflection
 This project is more than just a technical deep dive; it is a tribute to my second guardian—the Internet. Understanding these papers was a journey of connecting with digital world advancement.
 
-Read my personal journey and the full story behind this research on my blog:👉 **[About WWW Exploration](https://www.blogger.com/blog/post/edit/6414641918688218205/4670444568163690111)**
-👉 **[About PageRank Chaos](https://www.blogger.com/blog/post/edit/6414641918688218205/8430061158855630496)**
-👉 **[LLMs & Attention is all u need](https://www.blogger.com/blog/post/edit/6414641918688218205/8691836765995585563)**
+Read my personal journey and the full story behind this research on my blog:
 
