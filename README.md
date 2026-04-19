@@ -13,3 +13,9 @@ Internet has made profound impact on my life, I am a builder who believes in und
 
 ---
 *Created by a Digital Native for the next generation of builders.*
+--
+This repository is for personal use, or for anyone who is curious and just getting started. If you're a beginner, feel free to explore this, see how the pieces fit together, and use it as your own map. This is for the curious ones who want to see the 'How' behind the 'Wow.' Keep building.
+--
+🏅 My First Repository: The 19th April Milestone
+I am proud to document that this is my first-ever repository. Created on 19th April 2026, this project marks the official start of my journey as a builder and SDE.
+Making these first commits and seeing the changes go live has been an amazing experience. I’ve moved from just watching videos to actually documenting the Holy Trinity of the Modern Internet. This is my day one. Here’s to many more.
